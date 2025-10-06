@@ -399,6 +399,9 @@ insert into Student_details(RollNo,Name,Gender) values(204,'Samuel Black','M');
 
 <img width="979" height="241" alt="image" src="https://github.com/user-attachments/assets/451c8fe7-36c9-4332-9c0a-f64917114d66" />
 
+## Screenshot of Module 1 SEB Completion Grades
+
+<img width="1135" height="311" alt="image" src="https://github.com/user-attachments/assets/023d75e3-03aa-48a0-8157-f1ae41947803" />
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
